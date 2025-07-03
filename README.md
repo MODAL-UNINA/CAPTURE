@@ -1,6 +1,6 @@
 # CAPTURE - Computational Analysis and Predictive Techniques for Urban Resource Efficiency
 
-![Clustering and Temporal Patterns of Waste Production](apulia_region.png)
+![Clustering and Temporal Patterns of Waste Production](apulia_graph.png)
 
 ## Abstract
 Municipal waste management (MWM) poses significant challenges in the context of rapid urbanization and population growth. Accurate forecasting of waste production is crucial for designing sustainable waste management strategies. This work proposes a novel methodology leveraging deep learning techniques to forecast municipal waste production. By harnessing the power of deep neural networks and integrating heterogeneous data sources (including demographic and territorial information), we construct a graph representation of municipalities and employ Graph Neural Networks (GNNs) to extract spatial and temporal patterns.
